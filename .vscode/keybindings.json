@@ -1,0 +1,9 @@
+// add this in your additors prefrences Open keyboard shortcuts JSON by ctrl+shift+p
+[
+    {
+        "key": "ctrl+shift+i",
+        "command": "workbench.action.tasks.runTask",
+        "when": "editorTextFocus",
+        "args": "Run Program"
+    }
+]
